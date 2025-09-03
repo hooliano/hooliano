@@ -1,3 +1,3 @@
-## Hello
+## Welcome!
 
-Currently learning C++ and Python.
+A work in progress...
